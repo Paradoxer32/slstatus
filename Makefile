@@ -28,6 +28,8 @@ COM =\
 	components/user\
 	components/volume\
 	components/wifi
+CC  = clang
+
 
 all: slstatus
 

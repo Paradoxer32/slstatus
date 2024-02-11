@@ -38,6 +38,8 @@ Requirements
 Currently slstatus works on FreeBSD, Linux and OpenBSD.
 In order to build slstatus you need the Xlib header files.
 
+- Firacode font
+- Clang compiler
 - For volume percentage on Linux the kernel module `snd-mixer-oss` must be
   loaded.
 - For volume percentage on FreeBSD, `sndio` must be installed.
