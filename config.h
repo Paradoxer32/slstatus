@@ -71,7 +71,7 @@ static const struct arg args[] = {
 	{ disk_used,    " 🌿 %s ",   "/" },
 	{ ram_used,     " 🐑 %s ",   NULL },
 	{ cpu_perc,     " 🚀 %s ",   NULL },
-	{ run_command,  " %s ",     "alsa_vol" },
+//	{ run_command,  " %s ",     "alsa_vol" },
 	{ battery_perc, " 🔌 %s ",     "BAT0" },
 };
 
